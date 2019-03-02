@@ -21,7 +21,7 @@ class menuState extends Phaser.Scene{
     }
 
     start() {
-        game.scene.start('play');
+        this.scene.start('play');
     }
 
 };

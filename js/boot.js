@@ -4,6 +4,7 @@ class bootState extends Phaser.Scene {
     }
     create() {
 
+        this.cursors = this.input.keyboard.createCursorKeys();
         //calling state load
         console.log("y");
         this.scene.start('load');

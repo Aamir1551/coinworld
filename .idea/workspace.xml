@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ffbca60-a116-4a33-a4fb-5b97db45a325" name="Default Changelist" comment="" />
+    <list default="true" id="4ffbca60-a116-4a33-a4fb-5b97db45a325" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/FX/enemy-deadth.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/FX/item-feedback.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/eagle/attack.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/frog/idle.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/frog/jump.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/items/cherry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/items/gem.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/opossum/walk.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/player/climb.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/player/crouch.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/player/hurt.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/player/idle.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/player/jump.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/GIF/sprites/player/run.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/environment-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/MISC/title-screen.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/concepts.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/environment/environment.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/FX/enemy-deadth.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/FX/item-feedback.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/eagle/attack.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/frog/idle.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/frog/jump.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/items/cherry.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/items/gem.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/opossum/walk.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/player/climb.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/player/crouch.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/player/hurt.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/player/idle.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/player/jump.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/player/run.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sunny-land-files/public-license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/boot.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/boot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/load.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/load.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/play.js" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -11,49 +52,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="coinworld" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/game.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/play.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/win.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/boot.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="138">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -61,24 +69,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/load.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="253">
+              <caret line="11" column="142" selection-start-line="11" selection-start-column="142" selection-end-line="11" selection-end-column="142" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/menu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/spritesheets/payer-run.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -89,13 +83,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/play.js" />
         <option value="$PROJECT_DIR$/js/win.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/game.js" />
         <option value="$PROJECT_DIR$/js/boot.js" />
-        <option value="$PROJECT_DIR$/js/load.js" />
         <option value="$PROJECT_DIR$/js/menu.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/js/load.js" />
+        <option value="$PROJECT_DIR$/js/play.js" />
+        <option value="$PROJECT_DIR$/js/game.js" />
       </list>
     </option>
   </component>
@@ -113,7 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,18 +123,13 @@
             <path>
               <item name="coinworld" type="b2602c69:ProjectViewProjectNode" />
               <item name="coinworld" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="Sunny-land-files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coinworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coinworld" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,7 +138,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,23 +163,25 @@
       <option name="presentableId" value="Default" />
       <updated>1551043851309</updated>
       <workItem from="1551043855737" duration="6321000" />
+      <workItem from="1551104777990" duration="4210000" />
+      <workItem from="1551109007424" duration="12789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6321000" />
+    <option name="totallyTimeSpent" value="23320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Favorites" order="0" sideWeight="0.50252104" side_tool="true" weight="0.25" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.25" />
-      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32996634" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.497479" weight="0.25" />
+      <window_info id="Structure" order="3" sideWeight="0.5025126" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3714927" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32996634" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -203,15 +194,32 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" sideWeight="0.50252104" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.497479" weight="0.25" />
+      <window_info id="Structure" order="3" sideWeight="0.5025126" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.33166334" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32996634" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PSD/sprites/player/run.psd">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/environment-preview.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/sprites/player/run/player-run-2.png">
@@ -226,41 +234,11 @@
     <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/public-license.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/spritesheets/payer-run.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/spritesheets/payer-run.png" />
     <entry file="file://$PROJECT_DIR$/../phaser-test/phaser3-tutorial-src/part9.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
           <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/play.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/win.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/game.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -271,17 +249,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/load.js">
+    <entry file="file://$PROJECT_DIR$/js/menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="276">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/menu.js">
+    <entry file="file://$PROJECT_DIR$/js/win.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/props/house.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/environment-preview.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/layers/tileset.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/layers/middle.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/props/block.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/props/small-platform.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/spritesheets/player-idle.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/props/platform-long.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/layers/back.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/spritesheets/player-run.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/spritesheets/player-jump.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/props/crank-down.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/props/big-crate.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/props/rock.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/props/spikes.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sunny-land-files/PNG/environment/props/skulls.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/play.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/load.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="142" selection-start-line="11" selection-start-column="142" selection-end-line="11" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
